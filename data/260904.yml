@@ -7,7 +7,7 @@ about:
   head: 7b95989
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:41:36Z
+  collectedAt: 2026-09-04T20:56:52Z
 timeline:
   created: 2026-04-08
   lastCommit: 2026-04-28
@@ -81,5 +81,33 @@ total:
   openIssue: 0
   commit: 14
 ---
+path: /home/runner/.x-repo/github.com/razvanneculai/litecode
+collectedAt: 2026-09-04T20:56:53Z
+loc:
+  TypeScript:
+    code: 2773
+    comments: 213
+    blanks: 445
+    files: 20
+  Json:
+    code: 2452
+    comments: 0
+    blanks: 0
+    files: 4
+  Tsx:
+    code: 480
+    comments: 16
+    blanks: 66
+    files: 5
+  Markdown:
+    code: 0
+    comments: 379
+    blanks: 145
+    files: 1
+total:
+  code: 5735
+  comments: 613
+  blanks: 659
+  files: 30
 ---
 
