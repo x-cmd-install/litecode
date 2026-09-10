@@ -12,6 +12,17 @@ CLI Tool for 8k context ai models
 x install litecode
 ```
 
+## Code insight
+
+Total: **5,705** lines of code across **30** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 2,773 | 213 | 445 | 20 |
+| Json | 2,452 | 0 | 0 | 4 |
+| Tsx | 480 | 16 | 66 | 5 |
+| Markdown | 0 | 379 | 145 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/razvanneculai/litecode>
@@ -30,19 +41,11 @@ x install litecode
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 2 | 0 | 14 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 2 | 0 | 14 |
-
-## Code size
-
-Total: **5,705** lines of code across **30** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 2,773 | 213 | 445 | 20 |
-| Json | 2,452 | 0 | 0 | 4 |
-| Tsx | 480 | 16 | 66 | 5 |
-| Markdown | 0 | 379 | 145 | 1 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 2 | 0 | 14 |
 
 ## Improve this data
 
@@ -53,4 +56,4 @@ Install metadata for litecode lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:27:44Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:36:04Z._
